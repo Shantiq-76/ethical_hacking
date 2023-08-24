@@ -20,3 +20,4 @@
 
 - history
 
+- cat /home/<USER>/.bash_history
