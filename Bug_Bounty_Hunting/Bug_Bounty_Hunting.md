@@ -17,4 +17,7 @@ Eine Einführung zum Thema "Bug Bounty Hunting" inkl. Tools, Links usw.
 - [Shodan](https://www.shodan.io/dashboard), shodan
 - [BGP Toolkit](https://bgp.he.net/)
 - CherryTree (für die lokale Dokumentation zB eines Targets)
-
+- dig -> DNS lookup
+- nslookup / whois
+- theHarvester
+- [crt.sh](https://crt.sh/)
