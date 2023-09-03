@@ -21,3 +21,4 @@ Eine Einführung zum Thema "Bug Bounty Hunting" inkl. Tools, Links usw.
 - nslookup / whois
 - theHarvester
 - [crt.sh](https://crt.sh/)
+- [WayBackMachine](https://archive.org/web/)
