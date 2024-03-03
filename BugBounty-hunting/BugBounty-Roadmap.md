@@ -8,7 +8,7 @@
 > BurpSuit/ZED, httrack, manual
 ---
 - WebSite scanning
-> xnLinkFinder, subjs, SecretFinder, shodan, socialhunter
+> xnLinkFinder, subjs, SecretFinder, shodan, socialhunter, trufflehog
 ---
 - subdomain scanning
 > FUFF, sublist3r, subfinder, httpx, aquatone\
